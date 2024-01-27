@@ -1,0 +1,10 @@
+
+CalculateTaxUnitTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+*.pdb
+TaxCalculation/bin/
+TaxCalculation/Obj
+TaxCalculationUI/bin/
+TaxCalculationUI/obj/
+CalculateTaxUnitTests/bin/
+CalculateTaxUnitTests/obj/
+.vs/
